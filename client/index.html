@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Where we gonna eat?</title>
+    <link rel="stylesheet" type = "text/css" href="styles.css" />
+  </head>
+  <body class="container">
+    <div>
+      <button id="complimentButton">Get a compliment</button>
+      <button id="fortuneButton">Get a fortune</button>
+    </div>
+    <header>
+      <h1 class="ATTL">Add to the list</h1>
+    </div>
+    </header>
+    <main>
+      <form>
+        <input type="text" id="place"
+          placeholder="Enter a restaurant"/>
+
+        <input type="text" id="foodType"
+        placeholder="What type of food is it?"/>
+
+        <input type="text" id="item" 
+        placeholder="Enter an item"/>
+
+        <div class="locations">
+          <input type="checkbox" id="locationsUC">
+          <label for="locationsUC">Utah County</label>
+
+          <input type="checkbox" id="locationsSLC">
+          <label for="locationsSLC">Salt Lake County</label>
+        </div>
+        
+        <input type="checkbox" id="delivery">Delivery?
+        <button type="submit">Submit</button>
+      </form>
+        <h1>Where are we gonna eat?</h1>
+          <!-- <div class ="onlyBtns">
+            <button id="onlyUC">Only Utah County</button>
+            <button id="onlySLC">Only Salt Lake County</button>
+          </div> -->
+      <selection id="places-container"></selection>
+  
+    </main>
+
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+    
+  </body>
+</html>

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "place": "Panda Express",
+        "foodType": "Chinese",
+        "item": ["Chowmein"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 2,
+        "place": "McDonalds",
+        "foodType": "American",
+        "item": ["Apple Pie"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "place": "Taco Bell",
+        "foodType": "Mexican",
+        "item": ["Crunch Wrap","Cinnatwists", "burrito", "taco"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 4,
+        "place": "Vegan Sun",
+        "foodType": "Vegan",
+        "item": ["Spicy Lemon awakening", "Jerky", "Drumsticks", "Pho", "Ramen Stirfry", "Flan", "Fries", "Chicken Nuggets"],
+        "location": ["Utah County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 5,
+        "place": "Burger King",
+        "foodType": "Burger",
+        "item": ["Impossible Wopper", "Fries", "Hash Browns", "French Toast Sticks", "Apple Sauce"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 6,
+        "place": "Pizza Hut",
+        "foodType": "Pizza",
+        "item": ["Pizza"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 7,
+        "place": "Subway",
+        "foodType": "Sandwich",
+        "item": ["Sub", "Chips"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 8,
+        "place": "Dominos",
+        "foodType": "Pizza",
+        "item": ["Pizza"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 9,
+        "place": "Papa John's",
+        "foodType": "Pizza",
+        "item": ["Pizza", "Bread Sticks"],
+        "location": [],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 10,
+        "place": "Papa Murphys",
+        "foodType": "Pizza",
+        "item": ["Pizza (Vegan Cheese)"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 11,
+        "place": "Blaze Pizza",
+        "foodType": "Pizza",
+        "item": ["Pizza (Vegan Cheese)", "Vegan Cheese Bread"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 12,
+        "place": "Fat Daddys",
+        "foodType": "Pizza",
+        "item": ["Vegan Margherita", "Supreme Vegan", "Garden of Vegan", "V Daddy"],
+        "location": ["Utah County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 13,
+        "place": "Carls Jr",
+        "foodType": "Burger",
+        "item": ["Burger", "Fries", "Waffle Fries"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 14,
+        "place": "The Pie",
+        "foodType": "Pizza",
+        "item": ["Pizza (Vegan Cheese)", "Vegan Cheese Bread", "Vegan Ranch", "Vegan Buffalo Wings", "Vegan BBQ Wings"],
+        "location": ["Salt Lake County"],
+        "delivery": false,
+        "votes": 0
+    },
+    {
+        "id": 15,
+        "place": "Vuture Foods",
+        "foodType": "Vegan",
+        "item": ["Buffalo Fries", "Burritos", "Tacos", "Western Bacon Chik'n Sandwich", "Chili Mac Fries", "Mac n Cheese", "Mango Habenro Chicken Sandwich"],
+        "location": ["Salt Lake County"],
+        "delivery": false,
+        "votes": 0
+    },
+    {
+        "id": 16,
+        "place": "Sweet Hazel",
+        "foodType": "Vegan",
+        "item": ["BLTA", "4 Slices Bacon", "Avocado Toast W/ Sprouts", "Tofu Scramble w/ Cottage Fries","Salads", "Pastrami Reuben", "Ranch Chicken Sandwich", "French Toast Combo", "Stuffed French Toast"],
+        "location": ["Salt Lake County"],
+        "delivery": false,
+        "votes": 0
+    },
+    {
+        "id": 17,
+        "place": "King Kebab",
+        "foodType": "Asian",
+        "item": ["Gyro", "Falafel", "Fries"],
+        "location": ["Utah County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 18,
+        "place": "Bombay House",
+        "foodType": "Indian",
+        "item": ["Aloo Gobi", "Curry", "Garlic Nann"],
+        "location": ["Utah County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 19,
+        "place": "PF Chang",
+        "foodType": "Chinese",
+        "item": ["Coconut Curry", "lettuce Wraps", "Kung Pow Tofu"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    },
+    {
+        "id": 20,
+        "place": "Olive Garden",
+        "foodType": "Italian",
+        "item": ["Spaghetti", "Ministroni Soup", "Bread Sticks"],
+        "location": ["Utah County", "Salt Lake County"],
+        "delivery": true,
+        "votes": 0
+    }
+]

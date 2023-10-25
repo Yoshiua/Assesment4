@@ -1,0 +1,75 @@
+.container {
+    background-color: #00ffff;
+}
+/* #places-container {
+    background-color: aquamarine;
+    border: 5px solid black;
+} */
+.place-card {
+    background-color: aquamarine;
+    border: 5px solid black;
+    height: fit-content;
+    width: 65vw;
+    margin: 5px;
+
+}
+
+.place {
+    color: white;
+    font-weight: bold;
+    font-size: 3vh;
+    /* background-color: black; */
+    text-shadow: 3px 3px 20px #000000;
+    text-align: center;
+}
+
+.votes-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+}
+
+/* .deletePlace {
+    text-align: center;
+} */
+.votes {
+    display: flex;
+    border: 1px solid black;
+    /* padding: 5px; */
+    height: 3vh;
+    width: 3vh;
+    justify-content: center;
+    align-items: center;
+}
+.votesBtn {
+    height: 3vh;
+    width: 3vh;
+}
+.titlesText {
+    display: flex;
+    justify-content: center;
+}
+.food-type {
+    border: 2px dotted black;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+.item {
+    border: 2px dotted black;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+.location {
+    display: flex;
+    justify-content: center;
+    border: 2px dashed black;
+}
+.delivery {
+    display: flex;
+    justify-content: center;
+}
